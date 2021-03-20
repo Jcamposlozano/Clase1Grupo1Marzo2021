@@ -10,5 +10,8 @@ git config --global user.email "jc222209@gmail.com"
 
 git commit -m "Primeros cambios"
 
+---
+
+git remote add origin "url"
 
 
